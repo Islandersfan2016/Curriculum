@@ -421,6 +421,7 @@ Helpful emojis to let you know status of each section.
 | ⚠️ | Virtual Machine | TBD |
 | ⚠️ | Volatility | TBD |
 | ⚠️ | Volume | TBD |
+|    |  Vyper | a contract oriented pythonic programming languague that targets the Ethereum Virtual Machine(EVM) 
 
 ### [W](##table)
 
