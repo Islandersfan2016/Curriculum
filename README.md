@@ -39,7 +39,7 @@ Helpful emojis to let you know status of each section
 
 | Status | Topic | About |
 | ------ | ------ | ------ |
-|⚠️| [Vyper](vyper.md) | Pythonic-like smart contract programming language for Ethereum |
+|⚠️| [Vyper](vyper.md) | Pythonic-like smart contract programming language for Ethereum. It is an alternative to using Solidity |
 |⚠️| [Scribble](vyper.md) | A runtime verification tool to transform contracts to check properties for easier testing |
 
 ## Learn how to Collaborate
